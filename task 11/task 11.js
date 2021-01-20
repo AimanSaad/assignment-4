@@ -1,3 +1,4 @@
+
 var ip = prompt("enter a number");
 var sum = 0;
 var sip = ip.split("");
